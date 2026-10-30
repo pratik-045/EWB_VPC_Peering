@@ -56,6 +56,33 @@ The project covers VPC creation, subnet configuration, route tables, security gr
 
 See `Pratik_Sambhaji_Gorule_EWB_VPC_Peering.pdf` for the project documentation.
 
+## Project Screenshots
+
+### VPC Configuration
+![VPC-A](vpc-a.png)
+![VPC-B](vpc-b.png)
+
+### Subnet Configuration
+![VPC-A Public Subnet](vpc-a-public-subnet.png)
+![VPC-A Private Subnet](vpc-a-private-subnet.png)
+![VPC-B Private Subnet](vpc-b-private-subnet.png)
+
+### Route Tables
+![VPC-A Route Table](vpc-a-route-table.png)
+![VPC-A Private Route Table](vpc-a-private-route-table.png)
+![VPC-B Route Table](vpc-b-route-table.png)
+
+### Security Groups
+![Bastion Security Group](vpc-a-bastion-sg.png)
+![App Security Group](vpc-a-app-sg.png)
+
+### EC2 Instances and Connectivity
+![Bastion to App-B Ping](bastion%20to%20app%20bping%20success.png)
+
+## Project Report
+
+[View Project PDF](Pratik_Sambhaji_Gorule_EWB_VPC_Peering.pdf)
+
 ## Author
 
 Pratik Sambhaji Gorule
